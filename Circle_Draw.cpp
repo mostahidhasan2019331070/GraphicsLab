@@ -1,4 +1,4 @@
-// Credit BM Abdullah Mahmud
+// Credit BM Abdullah AL  Mahmud
 
 #ifdef _WIN32
 #include <windows.h>  // Only for Windows
