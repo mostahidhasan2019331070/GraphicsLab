@@ -1,9 +1,8 @@
-Computer Graphics Algorithms Collection
-
+#Computer Graphics Algorithms Collection:
 A curated set of intro‑level graphics programming exercises written in C and C++.  Each source file demonstrates a classic algorithm you’ll meet in a typical Computer Graphics (CG) course—ideal for reference, lab assignments, or quick experimentation.
 
 
-Prerequisites
+#Prerequisites
 
 Compiler: Any modern C/C++ compiler (e.g. g++ 11+, clang, or MSVC).
 
